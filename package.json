@@ -1,0 +1,30 @@
+{
+  "name": "proto-loader",
+  "version": "1.0.0",
+  "description": "Protocol Buffer loader module for webpack",
+  "main": "index.js",
+  "keywords": [
+    "webpack",
+    "protobuf",
+    "proto",
+    "protocol",
+    "buffer"
+  ],
+  "author": "Vijay Wakade",
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vijaywakade/protofile-loader.git"
+  },
+  "devDependencies": {
+    "webpack": "^5.90.1",
+    "protobufjs": "^7.2.6",
+    "loader-utils": "^3.2.1"
+  }
+}
